@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Moose Knives 
 
-You can use the [editor on GitHub](https://github.com/MooseKnives/MooseKnives.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My Name is Cameron Allen, I am a 21 year old blade smith from Hickory, North Carolina. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
